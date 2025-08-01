@@ -1,7 +1,7 @@
 # AWS-v-Data-Engineering-YouTube-Analysis-for-marketing
 ## Overview
 
-This project explores YouTube content trends across the topics AWS (Amazon Web Services) and Data Engineering, with the aim of uncovering key insights to support targeted marketing strategies. By analyzing video metadata—such as views, likes, publication dates, and channel metrics—we identify audience engagement patterns, high-performing content themes, and competitive positioning across these two domains.
+This project explores YouTube content trends using data engineering techniques and AWS services, with the aim of uncovering key insights to support targeted marketing strategies. By analyzing video metadata—such as views, likes, publish dates, and channel metrics—we identify audience engagement patterns, high-performing content themes, and overall content performance across regions and time.
 
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
